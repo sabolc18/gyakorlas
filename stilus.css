@@ -1,0 +1,15 @@
+* {
+  /* Minden elemre rakjunk határolóvonalat. */
+  border: 1px solid #fa123e;
+}
+html {
+   /*A html széle és a body széle közötti területnek a színe*/
+   background-color: mediumSeaGreen;
+}
+body {
+ /* eltartás távolság a határoló vonal és a tartalom között*/
+ padding: 50px;
+ /*a Margó , távolság a határoló vonalon kívűl*/
+ margin: 50px;
+ background-color: tomato;
+}
